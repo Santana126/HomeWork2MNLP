@@ -1,5 +1,6 @@
 {
   "models": [
+    "galatolo/cerbero-7b",
     "gemma",
     "llama3",
     "mistral",
