@@ -2,9 +2,7 @@
   "models": [
     "galatolo/cerbero-7b",
     "gemma",
-    "llama3",
-    "mistral",
-    "qwen"
+    "llama3"
   ],
   "prompts": [
     "base",
