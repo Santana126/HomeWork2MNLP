@@ -1,0 +1,15 @@
+{
+  "models": [
+    "gemma",
+    "llama3",
+    "mistral",
+    "qwen"
+  ],
+  "prompts": [
+    "base",
+    "detailed",
+    "few_shot",
+    "role_based",
+    "teacher_student"
+  ]
+}
