@@ -1,0 +1,16 @@
+Model,Prompt,Same_Scores,Variance
+cerbero,base,6,1.15
+cerbero,detailed,4,1.65
+cerbero,few_shot,4,1.3
+cerbero,role-based,2,1.3
+cerbero,teacher_student,8,1.375
+gemma,base,5,1.675
+gemma,detailed,3,1.9
+gemma,few_shot,6,0.925
+gemma,role-based,4,1.175
+gemma,teacher_student,7,0.85
+llama3,base,5,0.7
+llama3,detailed,7,0.775
+llama3,few_shot,8,0.65
+llama3,role-based,8,0.95
+llama3,teacher_student,8,0.925
