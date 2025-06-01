@@ -1,5 +1,7 @@
 {
   "models": [
+    "cerbero",
+    "gemma",
     "llama3"
   ],
   "prompts": [
