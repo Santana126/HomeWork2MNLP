@@ -1,4 +1,4 @@
-Author,Date,Region,Sentence,translation
+Author,Date,Region,Sentence,translation,Score
 Brunetto Latini,1260-61,fior.,"quella guerra ben fatta l' opera perché etc. Et dall' altra parte Aiaces era uno cavaliere franco e prode all' arme, di gran guisa, ma non era pieno di grande senno","**Analysis:**
 
 - **Structure:** Complex sentence with two clauses connected by an et.
@@ -6,7 +6,7 @@ Brunetto Latini,1260-61,fior.,"quella guerra ben fatta l' opera perché etc. Et 
 
 **Translation:**
 
-Quella guerra fece molto successo perché... E dall'altra parte Aiaces era un uomo coraggioso e prodigo all'arma, ma non era pieno di grande saggezza."
+Quella guerra fece molto successo perché... E dall'altra parte Aiaces era un uomo coraggioso e prodigo all'arma, ma non era pieno di grande saggezza.",5
 Bono Giamboni,1292,fior.,"crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.","**Analysis:**
 
 * The sentence is in the indicative mood.
@@ -23,7 +23,7 @@ Bono Giamboni,1292,fior.,"crudele, e di tutte le colpe pigli vendetta, come dice
 
 **Final version:**
 
-Un uomo crudele non perdona a nessuno che ha peccato."
+Un uomo crudele non perdona a nessuno che ha peccato.",2
 Valerio Massimo (red. V1,1336,fior.,"Non d' altra forza d' animo fue ornato Ponzio Aufidiano, romano cavaliere.","**Analysis:**
 
 * The sentence is in the past tense.
@@ -41,7 +41,7 @@ Valerio Massimo (red. V1,1336,fior.,"Non d' altra forza d' animo fue ornato Ponz
 
 **Translation:**
 
-Non era di altra forza un cavallo di Roma, Ponzio Aufidiano."
+Non era di altra forza un cavallo di Roma, Ponzio Aufidiano.",2
 Lucano volg. (ed. Marinoni),1330/40,prat.,"Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fati.","**Structure Analysis:**
 
 * The sentence is an imperative mood, expressing a command or request.
@@ -59,7 +59,7 @@ Lucano volg. (ed. Marinoni),1330/40,prat.,"Se questo piace a tutti e se 'l tempo
 
 **Final Version:**
 
-Se tutti sono d'accordo e il tempo richiede un uomo come Pompey come cavalieri e non come compagno, non lo terrò più in sospeso."
+Se tutti sono d'accordo e il tempo richiede un uomo come Pompey come cavalieri e non come compagno, non lo terrò più in sospeso.",3
 Brunetto Latini,1260-61,fior.,"Officio di questa arte pare che sia dicere appostatamente per fare credere, fine è far credere per lo dire.","**Structure:**
 
 - The sentence is an inverted sentence structure, with the verb (pare) coming after the subject (Officio).
@@ -77,7 +77,7 @@ Brunetto Latini,1260-61,fior.,"Officio di questa arte pare che sia dicere appost
 
 **Final version:**
 
-L'ufficio di questa arte pare deliberatamente dire per far credere, finalità è far credere per dire."
+L'ufficio di questa arte pare deliberatamente dire per far credere, finalità è far credere per dire.",3
 Simintendi,1333,tosc.,Ecco e larghi ventipiovoli caggiono delle risolute nebbie; e potresti credere che tutto il cielo cadesse nel mare,"**Analysis:**
 
 * Structure: The sentence is an archaic poetic style with a complex syntax. It uses extensive alliteration and figurative language.
@@ -86,7 +86,7 @@ Simintendi,1333,tosc.,Ecco e larghi ventipiovoli caggiono delle risolute nebbie;
 
 **Translation:**
 
-""Nubi densa e serre si arrolano su alte montagne di vento; pare che il cielo cade nel mare."""
+""Nubi densa e serre si arrolano su alte montagne di vento; pare che il cielo cade nel mare.""",5
 Agostino da Scarperia (?),1390,tosc.,"Però che or chi spererebbe quello che eziandio questi che non vogliono ancora credere in Cristo, già veggiono con noi, e perché nol possono negare, stridono colli denti.","**Structure:**
 
 The sentence is an elliptical conditional sentence with a complex predicate. 
@@ -106,7 +106,7 @@ The sentence is an elliptical conditional sentence with a complex predicate.
 
 **Final version:**
 
-Chiunque si aspetterebbe che qualcuno non crede ancora in Cristo, già lo hanno visto con noi. Perché non possono negare la verità, gridano di denti."
+Chiunque si aspetterebbe che qualcuno non crede ancora in Cristo, già lo hanno visto con noi. Perché non possono negare la verità, gridano di denti.",3
 Bono Giamboni,1292,fior.,I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.,"**Analysis:**
 
 - **Structure:** The sentence is in the indicative mood, with a passive voice construction.
@@ -115,7 +115,7 @@ Bono Giamboni,1292,fior.,I vendimenti de' morti et le presure de' vivi fece la f
 
 **Translation:**
 
-Le vendite di morti e la pressione della vita crearono un grande disordine."
+Le vendite di morti e la pressione della vita crearono un grande disordine.",2
 Bart. da San Concordio,1313,tosc.,"Acciocché quegli, il quale ora per le sue gran reità è feroce e onorevole, egli d'ogni male afflitto e tormentato della impietà verso il mio padre.","**Structure Analysis:**
 
 - The sentence is in the accusative mood.
@@ -133,7 +133,7 @@ Bart. da San Concordio,1313,tosc.,"Acciocché quegli, il quale ora per le sue gr
 
 **Final Version:**
 
-Cerchiando chiunque sia, ora per la sua grande regale, è feroz e onorabile, è afflitto e tormentato dall'impieta verso il mio padre."
+Cerchiando chiunque sia, ora per la sua grande regale, è feroz e onorabile, è afflitto e tormentato dall'impieta verso il mio padre.",3
 Brunetto Latini,1260-61,fior.,Gli uomini spessamente a stare fermi nella bugia incontra la verità.,"**Structure Analysis:**
 
 - The sentence is composed of three parts: subject (gli uomini), verb (spessamente), and predicate (a stare fermi nella bugia incontra la verità).
