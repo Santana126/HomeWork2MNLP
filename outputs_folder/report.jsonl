@@ -1,0 +1,15 @@
+{"Model": "cerbero", "Prompt": "base", "Same_Scores": 6, "Variance": 1.15}
+{"Model": "cerbero", "Prompt": "detailed", "Same_Scores": 4, "Variance": 1.65}
+{"Model": "cerbero", "Prompt": "few_shot", "Same_Scores": 4, "Variance": 1.3}
+{"Model": "cerbero", "Prompt": "role-based", "Same_Scores": 2, "Variance": 1.3}
+{"Model": "cerbero", "Prompt": "teacher_student", "Same_Scores": 8, "Variance": 1.375}
+{"Model": "gemma", "Prompt": "base", "Same_Scores": 5, "Variance": 1.675}
+{"Model": "gemma", "Prompt": "detailed", "Same_Scores": 3, "Variance": 1.9}
+{"Model": "gemma", "Prompt": "few_shot", "Same_Scores": 6, "Variance": 0.925}
+{"Model": "gemma", "Prompt": "role-based", "Same_Scores": 4, "Variance": 1.175}
+{"Model": "gemma", "Prompt": "teacher_student", "Same_Scores": 7, "Variance": 0.85}
+{"Model": "llama3", "Prompt": "base", "Same_Scores": 5, "Variance": 0.7}
+{"Model": "llama3", "Prompt": "detailed", "Same_Scores": 7, "Variance": 0.775}
+{"Model": "llama3", "Prompt": "few_shot", "Same_Scores": 8, "Variance": 0.65}
+{"Model": "llama3", "Prompt": "role-based", "Same_Scores": 8, "Variance": 0.95}
+{"Model": "llama3", "Prompt": "teacher_student", "Same_Scores": 8, "Variance": 0.925}
