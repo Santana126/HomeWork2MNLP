@@ -1,4 +1,4 @@
-Author,Date,Region,Sentence,translation
+Author,Date,Region,Sentence,translation,score
 Brunetto Latini,1260-61,fior.,"Et se l' occhio è nobile membro del corpo dell' uomo, dunque la salutazione è nobile parte della pistola, c' altressì allumina tutta la lettera come l' occhio allumina l' uomo.","**Analysis:**
 
 * The sentence is in the form of a conditional statement, with ""et se l' occhio è nobile membro del corpo dell' uomo"" as the hypothesis and ""dunque la salutazione è nobile parte della pistola, c' altressì allumina tutta la lettera come l' occhio allumina l' uomo"" as the conclusion.
@@ -7,7 +7,7 @@ Brunetto Latini,1260-61,fior.,"Et se l' occhio è nobile membro del corpo dell' 
 
 **Modern Italian:**
 
-Se gli occhi sono organi nobili del corpo umano, la saluto è un tratto nobile della pistola, perché illumina la lettera come un occhio illumina la persona."
+Se gli occhi sono organi nobili del corpo umano, la saluto è un tratto nobile della pistola, perché illumina la lettera come un occhio illumina la persona.",3
 Bono Giamboni,1292,fior.,"Tarentini, i quali erano nati di quegli di Lacedemonia et facta da lloro nobile cittade de' Greci.","**Analysis:**
 
 * The sentence is in the plural form, referring to the inhabitants of Tarentum.
@@ -17,7 +17,7 @@ Bono Giamboni,1292,fior.,"Tarentini, i quali erano nati di quegli di Lacedemonia
 
 **Translation:**
 
-I Tarentini, nati di quei luoghi di Lacedemonia, facevano parte dei nobili centri urbani dei Greci."
+I Tarentini, nati di quei luoghi di Lacedemonia, facevano parte dei nobili centri urbani dei Greci.",4
 Fatti de' Romani (H+R),1313,fior.,"Ulecois, ebe un uomo rico e nobile: Orgentore fue chiamato per nome.","**Structure Analysis:**
 
 - The sentence is in the indicative mood.
@@ -36,7 +36,7 @@ Fatti de' Romani (H+R),1313,fior.,"Ulecois, ebe un uomo rico e nobile: Orgentore
 
 **Final Version:**
 
-Ulecois era un uomo ricco e nobile. Orgentore fu chiamato con il suo nome."
+Ulecois era un uomo ricco e nobile. Orgentore fu chiamato con il suo nome.",4
 Valerio Massimo (red. Va),1336,tosc.,"però che, sse nobile cosa e alta è abatte il nimico, ampoi nonn è meno laudabile sapere avere misiricordia","**Analysis:**
 
 * The sentence is an inverted sentence structure, with the verb ""essere"" (to be) coming after the subject.
@@ -44,7 +44,7 @@ Valerio Massimo (red. Va),1336,tosc.,"però che, sse nobile cosa e alta è abatt
 
 **Modern Italian:**
 
-Tuttavia, se nobile cosa ed alta è abbattuta il nemico, non è meno lodabile sapere avere moderazione."
+Tuttavia, se nobile cosa ed alta è abbattuta il nemico, non è meno lodabile sapere avere moderazione.",3
 Bono Giamboni,1292,fior.,"Alexandri, ciò è il genero e 'l figliuolo, da Phausonia, gentile iovane di Macedonia, stando in uno luogo strecto sanza guardia, fue morto.","**Structure Analysis:**
 
 * The sentence is in the indicative mood.
@@ -63,7 +63,7 @@ Bono Giamboni,1292,fior.,"Alexandri, ciò è il genero e 'l figliuolo, da Phauso
 
 **Final Version:**
 
-Alexander, questo è il genero e il figlio, nato a Phausonia, giovane di Macedonia, che si trovava in un luogo stretto senza guardia, fu ucciso."
+Alexander, questo è il genero e il figlio, nato a Phausonia, giovane di Macedonia, che si trovava in un luogo stretto senza guardia, fu ucciso.",5
 Grazia di Meo,1343,tosc.,"Alchuno è riccho e gentile, ma lamentasi che vorebbe avere altra moglie che quella ch'egli à.","**Analysis:**
 
 * **Structure:** The sentence is in the indicative mood, with a subjective clause (""Alchuno è riccho e gentile"") and an objective clause (""lamentasi..."").
@@ -71,7 +71,7 @@ Grazia di Meo,1343,tosc.,"Alchuno è riccho e gentile, ma lamentasi che vorebbe 
 
 **Translation:**
 
-Alchuno è ricco e gentile, ma lamenta che vorrebbe avere un'altra moglie di quella che ne ha."
+Alchuno è ricco e gentile, ma lamenta che vorrebbe avere un'altra moglie di quella che ne ha.",3
 Zanobi da Strada,1361,tosc.,"Pietro, essendogli mostrato in figura il populo Gentile, sì gli fu detto: ammazza, e mangia","**Structure Analysis:**
 
 - The sentence consists of two independent clauses.
@@ -89,7 +89,7 @@ Zanobi da Strada,1361,tosc.,"Pietro, essendogli mostrato in figura il populo Gen
 
 **Final Version:**
 
-Pietro, dopo avergli mostrato in figura il popolo Gentile, gli disse: ""Amazzateli e mangiateli."""
+Pietro, dopo avergli mostrato in figura il popolo Gentile, gli disse: ""Amazzateli e mangiateli.""",3
 Declamazioni di Seneca,1392,tosc.,"pregollo che lo liberasse di quella obbligazione, in che egli l' aveva lasciato ubbligato. El gentile uomo assentì, e liberollo, e fecene carta.","**Analysis:**
 
 - The sentence is in the indicative mood, with a request (pregollo) and a response (el gentile uomo assentì).
@@ -98,7 +98,7 @@ Declamazioni di Seneca,1392,tosc.,"pregollo che lo liberasse di quella obbligazi
 
 **Translation:**
 
-""Please release him from that obligation, which he had left him obligated. The gentle man agreed, freed him, and made a document."""
+""Please release him from that obligation, which he had left him obligated. The gentle man agreed, freed him, and made a document.""",2
 Giovanni da San Miniato,1415,tosc.,"L'oro verrà dall'Aquilone. Che figuriamo noi per l'Aquilone, se non il populo Gentile congelato dal freddo del peccato, il qual populo tenne sotto il giogo della sua tirannia","**Structure Analysis:**
 
 * The sentence is complex, consisting of five independent clauses connected by conjunctions.
@@ -115,7 +115,7 @@ Giovanni da San Miniato,1415,tosc.,"L'oro verrà dall'Aquilone. Che figuriamo no
 
 **Final Version:**
 
-L'oro proviene dall'Aquilone. Che figureamo noi verso l'Aquilone, se non il popolo Gentile congelato dal freddo della sua tirannia, che ha sotto il suo giogo."
+L'oro proviene dall'Aquilone. Che figureamo noi verso l'Aquilone, se non il popolo Gentile congelato dal freddo della sua tirannia, che ha sotto il suo giogo.",3
 Prima catilinaria volg. (red. A),1294,fior.,"sia in mezzo tra me e te: con noi non puo' tu già più lungamente dimorare, ch'io non lo sofferrò e non lo lascerò.","**Analysis:**
 
 * The sentence is in the middle voice, with the subject receiving the action.
@@ -124,4 +124,4 @@ Prima catilinaria volg. (red. A),1294,fior.,"sia in mezzo tra me e te: con noi n
 
 **Translation:**
 
-Sia tra me e te: non puoi più dimorare con noi, perché non lo soffermerò e non lo lascerò."
+Sia tra me e te: non puoi più dimorare con noi, perché non lo soffermerò e non lo lascerò.",4

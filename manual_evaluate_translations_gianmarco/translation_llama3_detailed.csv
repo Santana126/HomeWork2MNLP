@@ -1,10 +1,10 @@
-Author,Date,Region,Sentence,translation
+Author,Date,Region,Sentence,translation,score
 Brunetto Latini,1260-61,fior.,"Et se l' occhio è nobile membro del corpo dell' uomo, dunque la salutazione è nobile parte della pistola, c' altressì allumina tutta la lettera come l' occhio allumina l' uomo.","Se l'occhio è un membro nobilissimo del corpo umano, allora la salutazione è una parte altrettanto importante della pistola; essa illumina tutta la lettera come l'occhio illumina l'uomo.
 
-(Note: I've preserved the original meaning, clarity, and syntactic coherence while rewriting it in modern Italian. The sentence structure remains similar, with slight adjustments to word order and verb conjugation.)"
-Bono Giamboni,1292,fior.,"Tarentini, i quali erano nati di quegli di Lacedemonia et facta da lloro nobile cittade de' Greci.","Tartensi, originari degli Spartani e fondatori della nobilissima città greca."
-Fatti de' Romani (H+R),1313,fior.,"Ulecois, ebe un uomo rico e nobile: Orgentore fue chiamato per nome.","L'uomo era ricco e nobile, si chiamava Orgentore."
-Valerio Massimo (red. Va),1336,tosc.,"però che, sse nobile cosa e alta è abatte il nimico, ampoi nonn è meno laudabile sapere avere misiricordia","Tuttavia, poiché una cosa nobile e elevata è abbattere l'avversario, altrettanto non è meno lodabile saper avere misericordia."
+(Note: I've preserved the original meaning, clarity, and syntactic coherence while rewriting it in modern Italian. The sentence structure remains similar, with slight adjustments to word order and verb conjugation.)",4
+Bono Giamboni,1292,fior.,"Tarentini, i quali erano nati di quegli di Lacedemonia et facta da lloro nobile cittade de' Greci.","Tartensi, originari degli Spartani e fondatori della nobilissima città greca.",3
+Fatti de' Romani (H+R),1313,fior.,"Ulecois, ebe un uomo rico e nobile: Orgentore fue chiamato per nome.","L'uomo era ricco e nobile, si chiamava Orgentore.",4
+Valerio Massimo (red. Va),1336,tosc.,"però che, sse nobile cosa e alta è abatte il nimico, ampoi nonn è meno laudabile sapere avere misiricordia","Tuttavia, poiché una cosa nobile e elevata è abbattere l'avversario, altrettanto non è meno lodabile saper avere misericordia.",5
 Bono Giamboni,1292,fior.,"Alexandri, ciò è il genero e 'l figliuolo, da Phausonia, gentile iovane di Macedonia, stando in uno luogo strecto sanza guardia, fue morto.","Alexandro, questo è il genero e il figlio di Faustina, una giovane di nobili origini macedone, rimasto solo e senza protezione in un luogo stretto, fu ucciso.
 
 Note:
@@ -13,12 +13,12 @@ Note:
 * ""genero e 'l figliuolo"" can be translated to ""il genero e il figlio"", meaning Alexander is the son-in-law and son of Faustina.
 * ""gentile iovane di Macedonia"" translates to ""una giovane di nobili origini macedone"", meaning a young woman from noble Macedonian origins, not just a generic ""young one"".
 * ""stando in uno luogo strecto sanza guardia"" becomes ""rimasto solo e senza protezione in un luogo stretto"", conveying the idea that Alexander was left alone and unprotected in a tight spot.
-* The verb ""fue morto"" is translated to ""fu ucciso"", using the correct past tense and verb conjugation."
-Grazia di Meo,1343,tosc.,"Alchuno è riccho e gentile, ma lamentasi che vorebbe avere altra moglie che quella ch'egli à.","Qualcuno è ricco e gentile, ma si lagna perché vorrebbe avere un'altra moglie rispetto a quella che ha."
+* The verb ""fue morto"" is translated to ""fu ucciso"", using the correct past tense and verb conjugation.",3
+Grazia di Meo,1343,tosc.,"Alchuno è riccho e gentile, ma lamentasi che vorebbe avere altra moglie che quella ch'egli à.","Qualcuno è ricco e gentile, ma si lagna perché vorrebbe avere un'altra moglie rispetto a quella che ha.",5
 Zanobi da Strada,1361,tosc.,"Pietro, essendogli mostrato in figura il populo Gentile, sì gli fu detto: ammazza, e mangia","Pietro, mostrando gli il popolo gentile in figura, gli fu ordinato di uccidere e divorare.
 
-(Note: I've maintained the original meaning and clarity of the text while rewriting it in modern Italian. The key words are ""pietro"" which means Peter, ""mostrato"" which means shown, ""il popolo gentile"" which means the Gentile people or uncircumcised, ""ammazza"" which means kill, and ""mangia"" which means eat. The original sentence is a command given to Pietro, telling him to slaughter and devour the Gentile people, likely in a military or conquest context.)"
-Declamazioni di Seneca,1392,tosc.,"pregollo che lo liberasse di quella obbligazione, in che egli l' aveva lasciato ubbligato. El gentile uomo assentì, e liberollo, e fecene carta.","Il gentiluomo accettò e lo liberò dalla obbligazione, facendogli una carta."
+(Note: I've maintained the original meaning and clarity of the text while rewriting it in modern Italian. The key words are ""pietro"" which means Peter, ""mostrato"" which means shown, ""il popolo gentile"" which means the Gentile people or uncircumcised, ""ammazza"" which means kill, and ""mangia"" which means eat. The original sentence is a command given to Pietro, telling him to slaughter and devour the Gentile people, likely in a military or conquest context.)",4
+Declamazioni di Seneca,1392,tosc.,"pregollo che lo liberasse di quella obbligazione, in che egli l' aveva lasciato ubbligato. El gentile uomo assentì, e liberollo, e fecene carta.","Il gentiluomo accettò e lo liberò dalla obbligazione, facendogli una carta.",3
 Giovanni da San Miniato,1415,tosc.,"L'oro verrà dall'Aquilone. Che figuriamo noi per l'Aquilone, se non il populo Gentile congelato dal freddo del peccato, il qual populo tenne sotto il giogo della sua tirannia","L'oro verrà dal Nord. Poiché figuriamo noi come il popolo Gentile congelato dal freddo del peccato, il quale popolo è stato schiavo sotto il giogo della tirannia sua.
 
 Note:
@@ -26,5 +26,5 @@ Note:
 * ""Aquilone"" is an ancient name for the north wind (Boreas), so I translated it to ""Nord"" (North).
 * The sentence structure remains largely unchanged, with some adjustments to word order and verb forms to bring it in line with modern Italian syntax.
 * I replaced ""congelato dal freddo del peccato"" with ""congelato dal freddo del peccato"" to maintain the metaphorical meaning of being frozen by sin.
-* I translated ""tenne sotto il giogo della sua tirannia"" to ""è stato schiavo sotto il giogo della tirannia sua"", using a more modern way to express the idea of being under the yoke of tyranny."
-Prima catilinaria volg. (red. A),1294,fior.,"sia in mezzo tra me e te: con noi non puo' tu già più lungamente dimorare, ch'io non lo sofferrò e non lo lascerò.",Non puoi stare più a lungo tra noi senza che io non lo accetti e non ti permetta.
+* I translated ""tenne sotto il giogo della sua tirannia"" to ""è stato schiavo sotto il giogo della tirannia sua"", using a more modern way to express the idea of being under the yoke of tyranny.",5
+Prima catilinaria volg. (red. A),1294,fior.,"sia in mezzo tra me e te: con noi non puo' tu già più lungamente dimorare, ch'io non lo sofferrò e non lo lascerò.",Non puoi stare più a lungo tra noi senza che io non lo accetti e non ti permetta.,3
