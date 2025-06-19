@@ -1,9 +1,14 @@
 {
   "models": [
     "cerbero",
-    "gemma"
+    "gemma",
+    "llama3"
   ],
   "prompts": [
-    "role-based"
+    "base",
+    "detailed",
+    "few_shot",
+    "role-based",
+    "teacher_student"
   ]
 }

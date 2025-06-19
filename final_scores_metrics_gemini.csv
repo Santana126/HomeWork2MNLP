@@ -1,0 +1,16 @@
+model,prompt,mean_score
+cerbero,base,3.711340206185567
+cerbero,detailed,3.381443298969072
+cerbero,few_shot,3.731958762886598
+cerbero,role-based,3.6804123711340204
+cerbero,teacher_student,3.577319587628866
+gemma,base,3.3711340206185567
+gemma,detailed,3.6907216494845363
+gemma,few_shot,3.5051546391752577
+gemma,role-based,3.3917525773195876
+gemma,teacher_student,3.4536082474226806
+llama3,base,3.8350515463917527
+llama3,detailed,3.9381443298969074
+llama3,few_shot,3.845360824742268
+llama3,role-based,3.7938144329896906
+llama3,teacher_student,3.7216494845360826
