@@ -1,0 +1,2 @@
+{"source": "Gemini", "factor": "model", "F": 7.942836, "p_value": 0.012584, "df": 2, "sum_sq": 0.301258}
+{"source": "Gemini", "factor": "prompt", "F": 0.287129, "p_value": 0.878365, "df": 4, "sum_sq": 0.021781}

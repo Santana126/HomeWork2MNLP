@@ -1,0 +1,15 @@
+{"model": "cerbero", "prompt": "base", "kappa": 0.1156}
+{"model": "cerbero", "prompt": "detailed", "kappa": 0.0789}
+{"model": "cerbero", "prompt": "few_shot", "kappa": 0.1333}
+{"model": "cerbero", "prompt": "role-based", "kappa": -0.1429}
+{"model": "cerbero", "prompt": "teacher_student", "kappa": -0.1043}
+{"model": "gemma", "prompt": "base", "kappa": -0.0072}
+{"model": "gemma", "prompt": "detailed", "kappa": 0.0728}
+{"model": "gemma", "prompt": "few_shot", "kappa": 0.2908}
+{"model": "gemma", "prompt": "role-based", "kappa": 0.0141}
+{"model": "gemma", "prompt": "teacher_student", "kappa": -0.12}
+{"model": "llama3", "prompt": "base", "kappa": 0.0361}
+{"model": "llama3", "prompt": "detailed", "kappa": -0.0989}
+{"model": "llama3", "prompt": "few_shot", "kappa": 0.1429}
+{"model": "llama3", "prompt": "role-based", "kappa": 0.2763}
+{"model": "llama3", "prompt": "teacher_student", "kappa": -0.1765}
