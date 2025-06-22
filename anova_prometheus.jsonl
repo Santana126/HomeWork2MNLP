@@ -1,2 +1,0 @@
-{"source": "Prometheus", "factor": "model", "F": 7.05295, "p_value": 0.017152, "df": 2, "sum_sq": 0.45443}
-{"source": "Prometheus", "factor": "prompt", "F": 3.027767, "p_value": 0.085354, "df": 4, "sum_sq": 0.390165}

@@ -1,0 +1,15 @@
+{"model": "cerbero", "prompt": "base", "mean_score": 3.711340206185567}
+{"model": "cerbero", "prompt": "detailed", "mean_score": 3.381443298969072}
+{"model": "cerbero", "prompt": "few_shot", "mean_score": 3.731958762886598}
+{"model": "cerbero", "prompt": "role-based", "mean_score": 3.6804123711340204}
+{"model": "cerbero", "prompt": "teacher_student", "mean_score": 3.577319587628866}
+{"model": "gemma", "prompt": "base", "mean_score": 3.3711340206185567}
+{"model": "gemma", "prompt": "detailed", "mean_score": 3.6907216494845363}
+{"model": "gemma", "prompt": "few_shot", "mean_score": 3.5051546391752577}
+{"model": "gemma", "prompt": "role-based", "mean_score": 3.3917525773195876}
+{"model": "gemma", "prompt": "teacher_student", "mean_score": 3.4536082474226806}
+{"model": "llama3", "prompt": "base", "mean_score": 3.8350515463917527}
+{"model": "llama3", "prompt": "detailed", "mean_score": 3.9381443298969074}
+{"model": "llama3", "prompt": "few_shot", "mean_score": 3.845360824742268}
+{"model": "llama3", "prompt": "role-based", "mean_score": 3.7938144329896906}
+{"model": "llama3", "prompt": "teacher_student", "mean_score": 3.7216494845360826}

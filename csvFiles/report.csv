@@ -17,12 +17,12 @@ llama3,teacher_student,prometheus,8,0.925
 cerbero,base,gemini,7,0.975
 cerbero,detailed,gemini,6,1.45
 cerbero,few_shot,gemini,7,0.775
-cerbero,role-based,gemini,0,
+cerbero,role-based,gemini,4,1.05
 cerbero,teacher_student,gemini,2,1.3
 gemma,base,gemini,6,0.85
 gemma,detailed,gemini,6,0.5
 gemma,few_shot,gemini,10,0.4
-gemma,role-based,gemini,0,
+gemma,role-based,gemini,6,0.725
 gemma,teacher_student,gemini,6,0.35
 llama3,base,gemini,2,1.25
 llama3,detailed,gemini,5,0.8
